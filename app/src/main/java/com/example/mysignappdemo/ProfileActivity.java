@@ -12,6 +12,7 @@ import com.google.firebase.auth.FirebaseAuth;
 
 public class ProfileActivity extends AppCompatActivity {
     private FirebaseAuth mAuth;
+    //I I have change something
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
